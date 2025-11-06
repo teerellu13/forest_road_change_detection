@@ -1,0 +1,984 @@
+[2025-11-03 12:49:25][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:49:25][ERROR] Malformed XYZ file
+[2025-11-03 12:50:47][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:50:47][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:50:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:50:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:53:48][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:53:48][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:53:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:53:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:05][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:54:05][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:54:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:13][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:54:13][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:54:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:29][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:54:29][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:54:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:37][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:54:37][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:54:37][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:37][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:47][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 12:54:47][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 12:54:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 12:54:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:00:41][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 13:00:42][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 13:00:42][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:00:42][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:00:51][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 13:00:52][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 13:00:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:00:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:01:48][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_5p_PADASJOKI_road_patches\laz_files_split_along_road_vectors_with_dl_predictions\461795483_19150.laz'
+[2025-11-03 13:01:48][INFO] Reading point cloud from file 'E:\ALS_DATA\NLS_20p_EVO_road_patches\461795483_19150.las'
+[2025-11-03 13:01:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:01:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:03:06][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 13:03:06][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 13:03:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:03:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:04:44][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 13:04:44][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 13:04:44][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:04:44][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:05:30][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 13:05:30][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 13:05:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:05:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:05:46][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 13:05:46][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 13:05:46][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 13:05:46][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:52:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:52:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:52:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:52:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:52:45][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:52:45][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:52:45][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:52:45][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:52:58][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:52:58][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:53:11][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:53:11][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:53:16][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:53:16][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:54:28][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:54:28][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:54:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:54:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:56:47][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:56:47][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:56:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:56:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:56:55][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:56:55][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:56:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:56:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:57:13][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:57:13][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:57:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:57:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:59:54][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 14:59:54][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 14:59:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 14:59:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:03][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 15:00:03][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 15:00:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:15][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 15:00:15][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 15:00:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:25][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 15:00:25][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 15:00:25][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:25][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:35][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 15:00:35][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 15:00:35][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:00:35][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:02:05][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-03 15:02:05][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-03 15:02:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-03 15:02:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:37:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:37:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:37:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:37:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:38:05][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:38:05][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:38:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:38:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:38:33][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:38:33][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:38:33][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:38:33][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:19][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:39:19][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:39:19][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:19][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:25][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:39:25][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:39:25][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:25][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:29][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:39:29][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:39:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:39:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:39:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:39:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:40:08][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:40:08][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:40:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:40:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:40:21][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:40:21][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:40:21][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:40:21][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:41:30][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:41:30][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:41:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:41:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:44:41][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:44:41][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:44:41][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:44:41][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:44:55][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:44:55][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:44:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:44:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:02][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:45:02][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:45:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:29][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:45:29][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:45:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:41][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:45:41][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:45:41][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:41][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:49][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 09:45:49][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 09:45:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 09:45:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:00:58][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:00:58][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:00:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:00:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:01:37][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:01:37][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:01:37][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:01:37][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:02:23][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:02:23][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:02:23][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:02:23][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:03:03][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:03:03][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:03:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:03:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:05:44][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:05:44][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:05:44][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:05:44][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:06:07][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:06:07][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:06:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:06:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:17:32][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:17:32][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:17:32][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:17:32][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:23:05][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:23:05][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:23:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:23:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:23:17][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:23:17][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:23:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:23:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:36:59][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-04 10:36:59][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-04 10:36:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 10:36:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:28][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:29][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:48:30][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:49:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:48][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:49][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:50][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:51][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:52][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:54][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:55][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:56][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:57][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:58][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:52:59][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:00][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:01][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:02][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:03][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:06][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:07][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:08][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:09][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:10][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:12][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:13][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:14][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:15][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:16][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-04 13:53:17][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:04][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:53:04][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:04][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:33][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:53:33][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:53:33][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:33][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:53:40][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:53:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:40][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:47][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:53:47][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:53:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:47][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:53][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:53:53][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:53:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:53:53][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:54:11][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:54:11][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:54:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:54:11][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:54:20][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\5p_example.las'
+[2025-11-05 09:54:20][INFO] Reading point cloud from file 'C:\Users\telukkari\Documents\Data\20p_example.las'
+[2025-11-05 09:54:20][INFO] Building KDTree structure with leaf parameter 10
+[2025-11-05 09:54:20][INFO] Building KDTree structure with leaf parameter 10
